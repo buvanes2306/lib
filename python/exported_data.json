@@ -1,0 +1,4630 @@
+[{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5b"
+  },
+  "bookId": "00001",
+  "accNo": 4281,
+  "title": "Information Technology  an Info Guide",
+  "authors": [
+    "Akshay Kumar"
+  ],
+  "publisher": "Authorpress",
+  "publishedYear": 2000,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5c"
+  },
+  "bookId": "00002",
+  "accNo": 7526,
+  "title": "Channel Coding in Communication Networks from Theory to turbocodes",
+  "authors": [
+    "Glavieux",
+    "Alain"
+  ],
+  "publisher": "Viva Book",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5d"
+  },
+  "bookId": "00003",
+  "accNo": 4286,
+  "title": "Information  Technology Act 2000",
+  "authors": [
+    "Srivastava",
+    "Rajeshwar Ashok ; Chansoria",
+    "Divya"
+  ],
+  "publisher": "Vista International Publishing House",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5e"
+  },
+  "bookId": "00004",
+  "accNo": 8325,
+  "title": "Computer Control of Process",
+  "authors": [
+    "Nagaraj.B"
+  ],
+  "publisher": "Anuradha Publications",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 9,
+    "shelf": 20
+  },
+  "callNumber": "629.89",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5f"
+  },
+  "bookId": "00005",
+  "accNo": 7523,
+  "title": "Media Coding and Content Processing",
+  "authors": [
+    "Steinmetz",
+    "Ralf; Nahrstedt",
+    "Klara"
+  ],
+  "publisher": "Prentice - Hall of India",
+  "publishedYear": 2002,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a60"
+  },
+  "bookId": "00006",
+  "accNo": 8276,
+  "title": "Information System Solutions",
+  "authors": [
+    "Van Horn Richard L"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a61"
+  },
+  "bookId": "00007",
+  "accNo": 4940,
+  "title": "Engineering Physics",
+  "authors": [
+    "Arumugam M"
+  ],
+  "publisher": "Anuradha Publications",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 5,
+    "shelf": 10
+  },
+  "callNumber": "530",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a62"
+  },
+  "bookId": "00008",
+  "accNo": 20058,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge University Press",
+  "publishedYear": 2016,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a63"
+  },
+  "bookId": "00009",
+  "accNo": 21397,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge publishers",
+  "publishedYear": 2014,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a64"
+  },
+  "bookId": "00010",
+  "accNo": 459,
+  "title": "Fundamentals of Information Technology",
+  "authors": [
+    "Deepak Bharihoke"
+  ],
+  "publisher": "EXCEL books",
+  "publishedYear": 2001,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a65"
+  },
+  "bookId": "00011",
+  "accNo": 5878,
+  "title": "Information technology Project Management",
+  "authors": [
+    "Schwalbe",
+    "kathy"
+  ],
+  "publisher": "Cengage Learning",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a66"
+  },
+  "bookId": "00012",
+  "accNo": 15209,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Ranjan Bose"
+  ],
+  "publisher": "McGraw-Hill Higher Education",
+  "publishedYear": 2013,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a67"
+  },
+  "bookId": "00013",
+  "accNo": 5875,
+  "title": "Businesss research Methods",
+  "authors": [
+    "Murthy S.N; Bhojanna U"
+  ],
+  "publisher": "EXCEL books",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a68"
+  },
+  "bookId": "00014",
+  "accNo": 4394,
+  "title": "Computer Simulation of Spark-ignition Engine Processes",
+  "authors": [
+    "Ganesan V."
+  ],
+  "publisher": "Universities Press",
+  "publishedYear": 1996,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a69"
+  },
+  "bookId": "00015",
+  "accNo": 4404,
+  "title": "Fundamentals of  Information Technology",
+  "authors": [
+    "aggarwal",
+    "Amit"
+  ],
+  "publisher": "Cyber Tech Publications",
+  "publishedYear": 2000,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a6a"
+  },
+  "bookId": "00016",
+  "accNo": 9286,
+  "title": "An Introduction To Operational Research",
+  "authors": [
+    "Kothari C.R"
+  ],
+  "publisher": "vikas publishing House Pvt Ltd",
+  "publishedYear": 2009,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a6b"
+  },
+  "bookId": "00017",
+  "accNo": "17106",
+  "title": "Operations Research",
+  "authors": [
+    "R.Panneerselvam"
+  ],
+  "publisher": "PHI Learning Pvt. Ltd",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Issued",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": "2",
+  "copies": 1,
+  "author": "R.Panneerselvam",
+  "locationRack": "Rack 1 - Shelf 60",
+  "numberOfCopies": 1,
+  "shelf": "60",
+  "updatedAt": {
+    "$date": "2026-02-23T17:08:11.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a6c"
+  },
+  "bookId": "00018",
+  "accNo": 5916,
+  "title": "Operation Research Concepts and Cases",
+  "authors": [
+    "Hillier",
+    "Frederick S."
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": 8,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a6d"
+  },
+  "bookId": "00019",
+  "accNo": 3765,
+  "title": "Operations Research",
+  "authors": [
+    "Kalavathy S."
+  ],
+  "publisher": "Vikas Publishing PVT LTD",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a6e"
+  },
+  "bookId": "00020",
+  "accNo": 20079,
+  "title": "Research Methods for Business A Skill Building Approach",
+  "authors": [
+    "Uma Sekaran",
+    "Roger Bougie"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2014,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": null,
+    "shelf": null
+  },
+  "callNumber": "1",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a6f"
+  },
+  "bookId": "00021",
+  "accNo": 8240,
+  "title": "Oracle Applications Server Portal Handbook",
+  "authors": [
+    "Ostrowski Chris"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 4,
+    "shelf": 44
+  },
+  "callNumber": "5.74",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a70"
+  },
+  "bookId": "00022",
+  "accNo": 11660,
+  "title": "Operation Research Concepts and Cases",
+  "authors": [
+    "shah nita.h"
+  ],
+  "publisher": "PHI Learning Pvt. Ltd",
+  "publishedYear": 2010,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a71"
+  },
+  "bookId": "00023",
+  "accNo": 17418,
+  "title": "The Essential R Reference",
+  "authors": [
+    "Mark Gardener"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a72"
+  },
+  "bookId": "00024",
+  "accNo": 21156,
+  "title": "Operations Research",
+  "authors": [
+    "Jogendra Mehta"
+  ],
+  "publisher": "yking Books",
+  "publishedYear": 2012,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a73"
+  },
+  "bookId": "00025",
+  "accNo": "20042",
+  "title": "Operations Research",
+  "authors": [
+    "Kanti Swarup",
+    "P.K.Gupta"
+  ],
+  "publisher": "sultan chand & sons educational publishers",
+  "publishedYear": 2016,
+  "department": "ELECTRONICS",
+  "status": "Issued",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "1",
+  "edition": "18",
+  "copies": 1,
+  "author": "Kanti Swarup, P.K.Gupta",
+  "locationRack": "Rack 1 - Shelf 60",
+  "numberOfCopies": 1,
+  "shelf": "60",
+  "updatedAt": {
+    "$date": "2026-02-23T17:08:51.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a74"
+  },
+  "bookId": "00026",
+  "accNo": 8675,
+  "title": "Operation Research",
+  "authors": [
+    "Chemma Col D.S"
+  ],
+  "publisher": "lakshmi Publications",
+  "publishedYear": 2006,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "1",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a75"
+  },
+  "bookId": "00027",
+  "accNo": 13464,
+  "title": "Operations Research Applications and Algorithms",
+  "authors": [
+    "Winston Waynel L"
+  ],
+  "publisher": "Cengage Learning",
+  "publishedYear": 2012,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "1",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a76"
+  },
+  "bookId": "00028",
+  "accNo": 3146,
+  "title": "Information Technology For Management",
+  "authors": [
+    "Turban",
+    "Efraim; Mclean",
+    "Ephraim"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": null,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 7
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a77"
+  },
+  "bookId": "00029",
+  "accNo": 510,
+  "title": "Information Technology For Management",
+  "authors": [
+    "Turban",
+    "Efraim; Mclean",
+    "Ephraim"
+  ],
+  "publisher": "Wiley Publishing,Inc",
+  "publishedYear": 2004,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a78"
+  },
+  "bookId": "00030",
+  "accNo": "236",
+  "title": "Information systems reengineering",
+  "authors": [
+    "Fong",
+    "Joseph SP; Huang",
+    "Shi-Ming"
+  ],
+  "publisher": "Springers",
+  "publishedYear": 1997,
+  "department": "COMPUTER SCIENCE",
+  "status": "Issued",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": "1",
+  "copies": 1,
+  "author": "Fong,Joseph SP; Huang,Shi-Ming",
+  "locationRack": "Rack 1 - Shelf 59",
+  "numberOfCopies": 1,
+  "shelf": "59",
+  "updatedAt": {
+    "$date": "2026-02-23T17:09:35.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a79"
+  },
+  "bookId": "00031",
+  "accNo": 15462,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Ranjan Bose"
+  ],
+  "publisher": "McGraw-Hill Education(India) Private Limited",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a7a"
+  },
+  "bookId": "00032",
+  "accNo": 15461,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Ranjan Bose"
+  ],
+  "publisher": "McGraw-Hill Education(India) Private Limited",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a7b"
+  },
+  "bookId": "00033",
+  "accNo": 15699,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Ranjan Bose"
+  ],
+  "publisher": "McGraw-Hill Higher Education",
+  "publishedYear": 2013,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a7c"
+  },
+  "bookId": "00034",
+  "accNo": 15463,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Ranjan Bose"
+  ],
+  "publisher": "McGraw-Hill Education(India) Private Limited",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a7d"
+  },
+  "bookId": "00035",
+  "accNo": 9716,
+  "title": "Fundamentals of data structures in C++",
+  "authors": [
+    "Horowitz",
+    "Ellis"
+  ],
+  "publisher": "Universities Press",
+  "publishedYear": 2009,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 3,
+    "shelf": 1
+  },
+  "callNumber": "5.73",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a7e"
+  },
+  "bookId": "00036",
+  "accNo": 9720,
+  "title": "Fundamentals of Information Technology",
+  "authors": [
+    "Leon",
+    "Alexis"
+  ],
+  "publisher": "Leon Vikas",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a7f"
+  },
+  "bookId": "00037",
+  "accNo": 9700,
+  "title": "ELEMENTS OF INFORMATION THEORY",
+  "authors": [
+    "COVER THOMAS M"
+  ],
+  "publisher": "Wiley India Edition",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a80"
+  },
+  "bookId": "00038",
+  "accNo": 9699,
+  "title": "ELEMENTS OF INFORMATION THEORY",
+  "authors": [
+    "COVER THOMAS M"
+  ],
+  "publisher": "Wiley India Edition",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a81"
+  },
+  "bookId": "00039",
+  "accNo": 14253,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Bose Ranjan"
+  ],
+  "publisher": "TMH",
+  "publishedYear": 2012,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a82"
+  },
+  "bookId": "00040",
+  "accNo": 15698,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Bose Ranjan"
+  ],
+  "publisher": "McGraw-Hill Higher Education",
+  "publishedYear": 2013,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a83"
+  },
+  "bookId": "00041",
+  "accNo": 15210,
+  "title": "Information Theory, Coding and Cryptography",
+  "authors": [
+    "Bose Ranjan"
+  ],
+  "publisher": "McGraw-Hill Higher Education",
+  "publishedYear": 2013,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a84"
+  },
+  "bookId": "00042",
+  "accNo": 511,
+  "title": "Information Technology For Management",
+  "authors": [
+    "Turban",
+    "Efraim; Mclean",
+    "Ephraim"
+  ],
+  "publisher": "Wiley Publishing,Inc",
+  "publishedYear": 2004,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a85"
+  },
+  "bookId": "00043",
+  "accNo": 512,
+  "title": "Information Technology For Management",
+  "authors": [
+    "Turban",
+    "Efraim; Mclean",
+    "Ephraim"
+  ],
+  "publisher": "Wiley Publishing,Inc",
+  "publishedYear": 2004,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a86"
+  },
+  "bookId": "00044",
+  "accNo": 234,
+  "title": "Information systems reengineering",
+  "authors": [
+    "Fong",
+    "Joseph SP; Huang",
+    "Shi-Ming"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 1997,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a87"
+  },
+  "bookId": "00045",
+  "accNo": 235,
+  "title": "Information systems reengineering",
+  "authors": [
+    "Fong",
+    "Joseph SP; Huang",
+    "Shi-Ming"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 1997,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a88"
+  },
+  "bookId": "00046",
+  "accNo": 3233,
+  "title": "Strutured system analysis & Design",
+  "authors": [
+    "ISRD"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a89"
+  },
+  "bookId": "00047",
+  "accNo": 3235,
+  "title": "Strutured system analysis & Design",
+  "authors": [
+    "ISRD"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a8a"
+  },
+  "bookId": "00048",
+  "accNo": 3234,
+  "title": "Strutured system analysis & Design",
+  "authors": [
+    "ISRD"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a8b"
+  },
+  "bookId": "00049",
+  "accNo": 3236,
+  "title": "Strutured system analysis & Design",
+  "authors": [
+    "ISRD"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a8c"
+  },
+  "bookId": "00050",
+  "accNo": 3218,
+  "title": "Information Assurance for the Enterprise",
+  "authors": [
+    "Schou",
+    "Corey; shoemaker",
+    "Dan"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a8d"
+  },
+  "bookId": "00051",
+  "accNo": "3219",
+  "title": "Information Assurance for the Enterprise",
+  "authors": [
+    "Schou",
+    "Corey; shoemaker",
+    "Dan"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Issued",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": "1",
+  "copies": 1,
+  "author": "Schou,Corey; shoemaker,Dan",
+  "locationRack": "Rack 1 - Shelf 59",
+  "numberOfCopies": 1,
+  "shelf": "59",
+  "updatedAt": {
+    "$date": "2026-02-23T17:10:47.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a8e"
+  },
+  "bookId": "00052",
+  "accNo": 3220,
+  "title": "Information Assurance for the Enterprise",
+  "authors": [
+    "Schou",
+    "Corey; shoemaker",
+    "Dan"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a8f"
+  },
+  "bookId": "00053",
+  "accNo": 3221,
+  "title": "Information Assurance for the Enterprise",
+  "authors": [
+    "Schou",
+    "Corey; shoemaker",
+    "Dan"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a90"
+  },
+  "bookId": "00054",
+  "accNo": 233,
+  "title": "Information systems reengineering",
+  "authors": [
+    "Fong",
+    "Joseph SP; Huang",
+    "Shi-Ming"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 1997,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a91"
+  },
+  "bookId": "00055",
+  "accNo": 460,
+  "title": "Fundamentals of Information Technology",
+  "authors": [
+    "Deepak Bharihoke"
+  ],
+  "publisher": "EXCEL books",
+  "publishedYear": 2000,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a92"
+  },
+  "bookId": "00056",
+  "accNo": 462,
+  "title": "Fundamentals of Information Technology",
+  "authors": [
+    "Deepak Bharihoke"
+  ],
+  "publisher": "EXCEL books",
+  "publishedYear": 2000,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a93"
+  },
+  "bookId": "00057",
+  "accNo": 461,
+  "title": "Fundamentals of Information Technology",
+  "authors": [
+    "Deepak Bharihoke"
+  ],
+  "publisher": "EXCEL books",
+  "publishedYear": 2000,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a94"
+  },
+  "bookId": "00058",
+  "accNo": 20061,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge University Press",
+  "publishedYear": 2016,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a95"
+  },
+  "bookId": "00059",
+  "accNo": 21398,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge publishers",
+  "publishedYear": 2016,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a96"
+  },
+  "bookId": "00060",
+  "accNo": 21299,
+  "title": "Software engineering",
+  "authors": [
+    "Ian Sommerville"
+  ],
+  "publisher": "Pearson",
+  "publishedYear": 2020,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 27
+  },
+  "callNumber": "5.1",
+  "edition": 10,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a97"
+  },
+  "bookId": "00061",
+  "accNo": 20059,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge University Press",
+  "publishedYear": 2016,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a98"
+  },
+  "bookId": "00062",
+  "accNo": 20060,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge University Press",
+  "publishedYear": 2016,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 59
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a99"
+  },
+  "bookId": "00063",
+  "accNo": 14461,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Peterson",
+    "Larry L; Davie",
+    "Bruce s."
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2013,
+  "department": "GENERAL",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a9a"
+  },
+  "bookId": "00064",
+  "accNo": 1196,
+  "title": "Computer Communications And Networking Technolgies",
+  "authors": [
+    "Gallo",
+    "Michal A.; Hancock",
+    "William M."
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a9b"
+  },
+  "bookId": "00065",
+  "accNo": 1194,
+  "title": "Computer Communications And Networking Technolgies",
+  "authors": [
+    "Gallo",
+    "Michal A.; Hancock",
+    "William M."
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a9c"
+  },
+  "bookId": "00066",
+  "accNo": 1900,
+  "title": "Guide to Networking Essentials",
+  "authors": [
+    "Tomsho",
+    "Greg; Tittel",
+    "Ed; Johnson",
+    "David"
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a9d"
+  },
+  "bookId": "00067",
+  "accNo": 15703,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Larry L.Peterson"
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2012,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a9e"
+  },
+  "bookId": "00068",
+  "accNo": 8394,
+  "title": "The Essential Guide to User Interface Design",
+  "authors": [
+    "Galitz",
+    "wilbert O."
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a9f"
+  },
+  "bookId": "00069",
+  "accNo": 8393,
+  "title": "The Essential Guide to User Interface Design",
+  "authors": [
+    "Galitz",
+    "wilbert O."
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 5,
+    "shelf": 47
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa0"
+  },
+  "bookId": "00070",
+  "accNo": 1021,
+  "title": "Nortel Guide to VPN Routing for security and Volp",
+  "authors": [
+    "Edwards",
+    "James; Bramante",
+    "Richard"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa1"
+  },
+  "bookId": "00071",
+  "accNo": 1017,
+  "title": "Nortel Guide to VPN Routing for security and Volp",
+  "authors": [
+    "Edwards",
+    "James; Bramante",
+    "Richard"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa2"
+  },
+  "bookId": "00072",
+  "accNo": 1018,
+  "title": "Nortel Guide to VPN Routing for security and Volp",
+  "authors": [
+    "Edwards",
+    "James; Bramante",
+    "Richard"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa3"
+  },
+  "bookId": "00073",
+  "accNo": 1020,
+  "title": "Nortel Guide to VPN Routing for security and Volp",
+  "authors": [
+    "Edwards",
+    "James; Bramante",
+    "Richard"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa4"
+  },
+  "bookId": "00074",
+  "accNo": 1556,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa5"
+  },
+  "bookId": "00075",
+  "accNo": 388,
+  "title": "Computer Networking A Top- down approach featuring the internet",
+  "authors": [
+    "Kurose",
+    "James F."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2005,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa6"
+  },
+  "bookId": "00076",
+  "accNo": 1553,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa7"
+  },
+  "bookId": "00077",
+  "accNo": 671,
+  "title": "C Test your aptitude",
+  "authors": [
+    "Venugopal",
+    "K.R; Chandrakant",
+    "N"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 1
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa8"
+  },
+  "bookId": "00078",
+  "accNo": 9178,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aa9"
+  },
+  "bookId": "00079",
+  "accNo": 15378,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Larry L.Peterson; Bruce S.Davie"
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2011,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aaa"
+  },
+  "bookId": "00080",
+  "accNo": 15377,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Larry L.Peterson; Bruce S.Davie"
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2011,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 17
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aab"
+  },
+  "bookId": "00081",
+  "accNo": 15376,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Larry L.Peterson; Bruce S.Davie"
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2011,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 4
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aac"
+  },
+  "bookId": "00082",
+  "accNo": 1555,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aad"
+  },
+  "bookId": "00083",
+  "accNo": 1197,
+  "title": "Computer Communications And Networking Technolgies",
+  "authors": [
+    "Gallo",
+    "Michal A.; Hancock",
+    "William M."
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aae"
+  },
+  "bookId": "00084",
+  "accNo": 1950,
+  "title": "Computer Networking illuminated",
+  "authors": [
+    "Barrett",
+    "Diane; King",
+    "Todd"
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aaf"
+  },
+  "bookId": "00085",
+  "accNo": 676,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2003,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab0"
+  },
+  "bookId": "00086",
+  "accNo": 1988,
+  "title": "Computer Networking:a top-down approach featuring the internet",
+  "authors": [
+    "Kurose",
+    "James F.; Ross",
+    "Keith W."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab1"
+  },
+  "bookId": "00087",
+  "accNo": 1545,
+  "title": "Computer Networks",
+  "authors": [
+    "Sarma C.R"
+  ],
+  "publisher": "Jaico Publishing house",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab2"
+  },
+  "bookId": "00088",
+  "accNo": 4135,
+  "title": "Semiconductor Devices",
+  "authors": [
+    "Dimitrijev",
+    "Sima"
+  ],
+  "publisher": "Orient Longman P.Ltd",
+  "publishedYear": 2006,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 7,
+    "shelf": 33
+  },
+  "callNumber": "621.38152",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab3"
+  },
+  "bookId": "00089",
+  "accNo": 5914,
+  "title": "Begining Spring Framework",
+  "authors": [
+    "Velde",
+    "Thomas Van de; Snyder",
+    "Brunce"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab4"
+  },
+  "bookId": "00090",
+  "accNo": 18400,
+  "title": "Computer Networks and Systems Queueing Theory and Performance Evalution",
+  "authors": [
+    "Thomas G.Robertazzi"
+  ],
+  "publisher": "Springer(India)Private Limited",
+  "publishedYear": 2013,
+  "department": "MATHS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab5"
+  },
+  "bookId": "00091",
+  "accNo": 1543,
+  "title": "Computer Networks",
+  "authors": [
+    "Olifer",
+    "Natalia; Olifer",
+    "Victor"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab6"
+  },
+  "bookId": "00092",
+  "accNo": 7940,
+  "title": "The Essential Guide to User Interface Design",
+  "authors": [
+    "Cooper",
+    "Alan"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2008,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab7"
+  },
+  "bookId": "00093",
+  "accNo": 7938,
+  "title": "The Essential Guide to User Interface Design",
+  "authors": [
+    "Cooper",
+    "Alan"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2008,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab8"
+  },
+  "bookId": "00094",
+  "accNo": 10064,
+  "title": "Computer Networks",
+  "authors": [
+    "Black",
+    "Uyless"
+  ],
+  "publisher": "PHI Learning Pvt. Ltd",
+  "publishedYear": 2009,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ab9"
+  },
+  "bookId": "00095",
+  "accNo": 4141,
+  "title": "Fundamentals In Nuclear Physics",
+  "authors": [
+    "Basdevant Jeanlouis"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2006,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 5,
+    "shelf": 20
+  },
+  "callNumber": "539.7",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aba"
+  },
+  "bookId": "00096",
+  "accNo": 10062,
+  "title": "Computer Networks",
+  "authors": [
+    "Black",
+    "Uyless"
+  ],
+  "publisher": "PHI Learning Pvt. Ltd",
+  "publishedYear": 2009,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749abb"
+  },
+  "bookId": "00097",
+  "accNo": 16973,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Bruce S.Davie"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2014,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749abc"
+  },
+  "bookId": "00098",
+  "accNo": 13419,
+  "title": "High Performance Communication Networks",
+  "authors": [
+    "Jean Walrand"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2011,
+  "department": "GENERAL",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749abd"
+  },
+  "bookId": "00099",
+  "accNo": 969,
+  "title": "NET 2.0 Networking Projects.",
+  "authors": [
+    "Meng Lee",
+    "Wei"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749abe"
+  },
+  "bookId": "00100",
+  "accNo": 15504,
+  "title": "High Performance Communication Networks",
+  "authors": [
+    "Walrand Jean"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2013,
+  "department": "GENERAL",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749abf"
+  },
+  "bookId": "00101",
+  "accNo": 9092,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac0"
+  },
+  "bookId": "00102",
+  "accNo": 12397,
+  "title": "Computer Networks",
+  "authors": [
+    "Peterson",
+    "Larry L"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2011,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac1"
+  },
+  "bookId": "00103",
+  "accNo": 3003,
+  "title": "Fluid Mechanics & Machinery",
+  "authors": [
+    "Purshothama Raj; Er.Ramasamy"
+  ],
+  "publisher": "Sri Krishna Publications",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 8,
+    "shelf": 69
+  },
+  "callNumber": "1",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac2"
+  },
+  "bookId": "00104",
+  "accNo": 1901,
+  "title": "Guide to Networking Essentials",
+  "authors": [
+    "Tomsho",
+    "Greg; Tittel",
+    "Ed; Johnson",
+    "David"
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 5
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac3"
+  },
+  "bookId": "00105",
+  "accNo": 1544,
+  "title": "Computer Networks",
+  "authors": [
+    "Olifer",
+    "Natalia; Olifer",
+    "Victor"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac4"
+  },
+  "bookId": "00106",
+  "accNo": 7763,
+  "title": "Networks for Computer Scientists and Engineers",
+  "authors": [
+    "Zheng",
+    "Youlu"
+  ],
+  "publisher": "BS Publications",
+  "publishedYear": 2002,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac5"
+  },
+  "bookId": "00107",
+  "accNo": 11393,
+  "title": "ADO.NET",
+  "authors": [
+    "Sceppa David"
+  ],
+  "publisher": "Wp Publishers and Distributors",
+  "publishedYear": 2003,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac6"
+  },
+  "bookId": "00108",
+  "accNo": 1019,
+  "title": "Nortel Guide to VPN Routing for security and Volp",
+  "authors": [
+    "Edwards",
+    "James; Bramante",
+    "Richard"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac7"
+  },
+  "bookId": "00109",
+  "accNo": 7403,
+  "title": "The Essentials of Interaction DEsign",
+  "authors": [
+    "Cooper",
+    "Alan; Reimann",
+    "Robert"
+  ],
+  "publisher": "Wiley Publishing,Inc",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac8"
+  },
+  "bookId": "00110",
+  "accNo": 11458,
+  "title": "Computer Networks",
+  "authors": [
+    "Peterson",
+    "Larry L"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2010,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ac9"
+  },
+  "bookId": "00111",
+  "accNo": 7514,
+  "title": "Creating Client Extranets with SharePoint 2003",
+  "authors": [
+    "Gerow",
+    "MArk E."
+  ],
+  "publisher": "Apress",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aca"
+  },
+  "bookId": "00112",
+  "accNo": 967,
+  "title": ".NET 2.0 Networking Projects",
+  "authors": [
+    "Meng Lee",
+    "Wei"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749acb"
+  },
+  "bookId": "00113",
+  "accNo": 9093,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749acc"
+  },
+  "bookId": "00114",
+  "accNo": 18398,
+  "title": "Computer Networks and Systems Queueing Theory and Performance Evalution",
+  "authors": [
+    "Thomas G.Robertazzi"
+  ],
+  "publisher": "Springer(India)Private Limited",
+  "publishedYear": 2013,
+  "department": "MATHS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749acd"
+  },
+  "bookId": "00115",
+  "accNo": 1551,
+  "title": "Computer Networks",
+  "authors": [
+    "Petreson",
+    "Larry; Davie",
+    "Bruce s."
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ace"
+  },
+  "bookId": "00116",
+  "accNo": 20304,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Larry L.Peterson",
+    "Bruce S.Davie"
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2016,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749acf"
+  },
+  "bookId": "00117",
+  "accNo": 12376,
+  "title": "Networks Lines and Fields",
+  "authors": [
+    "Ryder",
+    "John D"
+  ],
+  "publisher": "phi Learning (p) Ltd",
+  "publishedYear": 2011,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad0"
+  },
+  "bookId": "00118",
+  "accNo": 1903,
+  "title": "Guide to Networking Essentials",
+  "authors": [
+    "Tomsho",
+    "Greg; Tittel",
+    "Ed; Johnson",
+    "David"
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad1"
+  },
+  "bookId": "00119",
+  "accNo": 1254,
+  "title": ".NEt Programming",
+  "authors": [
+    "Gupta",
+    "Vikas"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad2"
+  },
+  "bookId": "00120",
+  "accNo": 1252,
+  "title": "NEt Programming",
+  "authors": [
+    "Gupta",
+    "Vikas"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad3"
+  },
+  "bookId": "00121",
+  "accNo": 968,
+  "title": ".NET 2.0 Networking Projectss",
+  "authors": [
+    "Meng Lee",
+    "Wei"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad4"
+  },
+  "bookId": "00122",
+  "accNo": 11634,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Peterson",
+    "Larry L"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad5"
+  },
+  "bookId": "00123",
+  "accNo": 8457,
+  "title": "Computer Networks",
+  "authors": [
+    "Jayaprakash N"
+  ],
+  "publisher": "Anuradha Publishers",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad6"
+  },
+  "bookId": "00124",
+  "accNo": 18397,
+  "title": "Computer Networks and Systems Queueing Theory and Performance Evalution",
+  "authors": [
+    "Thomas G.Robertazzi"
+  ],
+  "publisher": "Springer(India)Private Limited",
+  "publishedYear": 2013,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad7"
+  },
+  "bookId": "00125",
+  "accNo": 18399,
+  "title": "Computer Networks and Systems Queueing Theory and Performance",
+  "authors": [
+    "Thomas G.Robertazzi"
+  ],
+  "publisher": "Springer(India)Private Limited",
+  "publishedYear": 2013,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad8"
+  },
+  "bookId": "00126",
+  "accNo": 1547,
+  "title": "Computer Networks",
+  "authors": [
+    "Sarma C.R"
+  ],
+  "publisher": "Jaico Publishing house",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ad9"
+  },
+  "bookId": "00127",
+  "accNo": 9179,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ada"
+  },
+  "bookId": "00128",
+  "accNo": 5793,
+  "title": ".Net Interview Questions",
+  "authors": [
+    "Nagaraju.B"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2008,
+  "department": "GENERAL",
+  "status": "Available",
+  "location": {
+    "rack": 6,
+    "shelf": 2
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749adb"
+  },
+  "bookId": "00129",
+  "accNo": 3633,
+  "title": "Computer Networking",
+  "authors": [
+    "Tittel",
+    "Ed"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749adc"
+  },
+  "bookId": "00130",
+  "accNo": 1987,
+  "title": "Computer Networking:a top-down approach featuring the internet",
+  "authors": [
+    "Kurose",
+    "James F.; Ross",
+    "Keith W."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749add"
+  },
+  "bookId": "00131",
+  "accNo": 15421,
+  "title": "Computer Networking A Top- down approach featuring the internet",
+  "authors": [
+    "James F.Kurose",
+    "Keith W.Ross"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 34
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ade"
+  },
+  "bookId": "00132",
+  "accNo": 3635,
+  "title": "Computer Networking",
+  "authors": [
+    "Tittel",
+    "Ed"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749adf"
+  },
+  "bookId": "00133",
+  "accNo": 17061,
+  "title": "Computer Networks and Internets With Internet Applications",
+  "authors": [
+    "Douglas E.Comer"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae0"
+  },
+  "bookId": "00134",
+  "accNo": 5792,
+  "title": ".Net Interview Questions",
+  "authors": [
+    "Nagaraju.B"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2008,
+  "department": "GENERAL",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae1"
+  },
+  "bookId": "00135",
+  "accNo": 11457,
+  "title": "Computer Networks",
+  "authors": [
+    "Peterson",
+    "Larry L"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2010,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae2"
+  },
+  "bookId": "00136",
+  "accNo": 1801,
+  "title": "Computer Networks and systems",
+  "authors": [
+    "Robertazzi",
+    "Thomas G."
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2000,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae3"
+  },
+  "bookId": "00137",
+  "accNo": 12375,
+  "title": "Networks Lines and Fields",
+  "authors": [
+    "Ryder",
+    "John D"
+  ],
+  "publisher": "phi Learning (p) Ltd",
+  "publishedYear": 2011,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae4"
+  },
+  "bookId": "00138",
+  "accNo": 16976,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Bruce S.Davie"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2014,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae5"
+  },
+  "bookId": "00139",
+  "accNo": 1557,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae6"
+  },
+  "bookId": "00140",
+  "accNo": 16675,
+  "title": "Irrigation and Water Resources Engineering",
+  "authors": [
+    "Asawa.G.L"
+  ],
+  "publisher": "New Age International (p) Ltd Publishers",
+  "publishedYear": 2014,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 6,
+    "shelf": 18
+  },
+  "callNumber": "627.52",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae7"
+  },
+  "bookId": "00141",
+  "accNo": 6144,
+  "title": ".Net Interview Questions",
+  "authors": [
+    "Nagaraju.B"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae8"
+  },
+  "bookId": "00142",
+  "accNo": 17166,
+  "title": "Top-Down Network Design",
+  "authors": [
+    "Priscilla Oppenheimer"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2015,
+  "department": "GENERAL",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749ae9"
+  },
+  "bookId": "00143",
+  "accNo": 8455,
+  "title": "Computer Networks",
+  "authors": [
+    "Jayaprakash N"
+  ],
+  "publisher": "Anuradha Publishers",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aea"
+  },
+  "bookId": "00144",
+  "accNo": 18947,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Larry L.Peterson"
+  ],
+  "publisher": "Morgan Kaufmann Publishers",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aeb"
+  },
+  "bookId": "00145",
+  "accNo": 15413,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2013,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aec"
+  },
+  "bookId": "00146",
+  "accNo": 19497,
+  "title": "Basic VLSI design",
+  "authors": [
+    "Douglas A.Pucknell"
+  ],
+  "publisher": "PHI Learning Pvt. Ltd",
+  "publishedYear": 2013,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 7,
+    "shelf": 70
+  },
+  "callNumber": "621.392",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aed"
+  },
+  "bookId": "00147",
+  "accNo": 9176,
+  "title": "Computer Networks",
+  "authors": [
+    "Tanenbaum",
+    "Andrew S."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 4,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aee"
+  },
+  "bookId": "00148",
+  "accNo": 11635,
+  "title": "computer networks a systems approach",
+  "authors": [
+    "Peterson",
+    "Larry L"
+  ],
+  "publisher": "Elsevier Digital Press",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aef"
+  },
+  "bookId": "00149",
+  "accNo": 1195,
+  "title": "Computer Communications And Networking Technolgies",
+  "authors": [
+    "Gallo",
+    "Michal A.; Hancock",
+    "William M."
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 35
+  },
+  "callNumber": "4.6",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af0"
+  },
+  "bookId": "00150",
+  "accNo": "8722",
+  "title": "C++ Primer",
+  "authors": [
+    "Lippman Stanley B"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "COMPUTER SCIENCE",
+  "status": "Issued",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": "4",
+  "copies": 1,
+  "author": "Lippman Stanley B",
+  "locationRack": "Rack 2 - Shelf 4",
+  "numberOfCopies": 1,
+  "shelf": "4",
+  "updatedAt": {
+    "$date": "2026-02-23T17:11:33.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af1"
+  },
+  "bookId": "00151",
+  "accNo": 6185,
+  "title": "C++ Programming",
+  "authors": [
+    "Ullman",
+    "Larry; Signer",
+    "Andreas"
+  ],
+  "publisher": "pearson prentice hall",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af2"
+  },
+  "bookId": "00152",
+  "accNo": 12530,
+  "title": "The Complete Reference java",
+  "authors": [
+    "Schildt herbert"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2011,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af3"
+  },
+  "bookId": "00153",
+  "accNo": 16432,
+  "title": "computer Programming",
+  "authors": [
+    "Kamthane Ashok N."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2010,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af4"
+  },
+  "bookId": "00154",
+  "accNo": 6245,
+  "title": "Java Actually A first Course",
+  "authors": [
+    "Mughal",
+    "Khalid; Hamre Torill; Rasmussen",
+    "Rolf.W"
+  ],
+  "publisher": "India Edition",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af5"
+  },
+  "bookId": "00155",
+  "accNo": 16204,
+  "title": "Programming With ANSI C++",
+  "authors": [
+    "Trivedi",
+    "Bhushan"
+  ],
+  "publisher": "Oxford university press",
+  "publishedYear": 2012,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af6"
+  },
+  "bookId": "00156",
+  "accNo": 3320,
+  "title": "Programming Languages Priciples and Paradigms",
+  "authors": [
+    "Tucker",
+    "Allen"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af7"
+  },
+  "bookId": "00157",
+  "accNo": 6141,
+  "title": "Indroduction to programming: Concepts and Design",
+  "authors": [
+    "Venit",
+    "Stewart"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2002,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af8"
+  },
+  "bookId": "00158",
+  "accNo": 21220,
+  "title": "Think Python",
+  "authors": [
+    "Allen B.Downey"
+  ],
+  "publisher": "IN Focus",
+  "publishedYear": 2021,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749af9"
+  },
+  "bookId": "00159",
+  "accNo": 4915,
+  "title": "Practical approach to programming in c",
+  "authors": [
+    "Pandiyaraja",
+    "P"
+  ],
+  "publisher": "Vijay Nicole",
+  "publishedYear": 2005,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749afa"
+  },
+  "bookId": "00160",
+  "accNo": 3337,
+  "title": "Introduction to object oriented programming Through Java",
+  "authors": [
+    "ISRD"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749afb"
+  },
+  "bookId": "00161",
+  "accNo": 554,
+  "title": "JavaServer Pages Illumnated",
+  "authors": [
+    "Prabhakar Metlapalli"
+  ],
+  "publisher": "Jones and Bartlett",
+  "publishedYear": 2000,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749afc"
+  },
+  "bookId": "00162",
+  "accNo": 3132,
+  "title": "Fundamentals of Computers with Programming in C",
+  "authors": [
+    "Dey",
+    "Pradip; Ghosh",
+    "Manas"
+  ],
+  "publisher": "Oxford university press",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749afd"
+  },
+  "bookId": "00163",
+  "accNo": 4552,
+  "title": "Excel In Grammer",
+  "authors": [
+    "Castro",
+    "Doreen; Shakeela I"
+  ],
+  "publisher": "Sunrise publishers",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": null,
+    "shelf": null
+  },
+  "callNumber": "415",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749afe"
+  },
+  "bookId": "00164",
+  "accNo": 707,
+  "title": "Enterprise javabeans",
+  "authors": [
+    "Valesky",
+    "Tom"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 1999,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749aff"
+  },
+  "bookId": "00165",
+  "accNo": 8702,
+  "title": "IBM Pc Assembly Language and Programming",
+  "authors": [
+    "Abel Peter"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2009,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b00"
+  },
+  "bookId": "00166",
+  "accNo": 6240,
+  "title": "555 Programs in C++",
+  "authors": [
+    "Ahamad",
+    "Azad A."
+  ],
+  "publisher": "Parveen Publishers",
+  "publishedYear": 2000,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b01"
+  },
+  "bookId": "00167",
+  "accNo": 1028,
+  "title": "Pro J2EE 1.4 From Professional to Expert",
+  "authors": [
+    "Spielman",
+    "Sue"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2004,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b02"
+  },
+  "bookId": "00168",
+  "accNo": 6350,
+  "title": "Exploiting Software HOw to break code",
+  "authors": [
+    "Hoglund",
+    "Greg; McGraw",
+    "Gary"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b03"
+  },
+  "bookId": "00169",
+  "accNo": 935,
+  "title": "Pro Visual Studio 2005 Team system",
+  "authors": [
+    "Levinson",
+    "Jeff; Nelson",
+    "Daviod"
+  ],
+  "publisher": "Springer",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b04"
+  },
+  "bookId": "00170",
+  "accNo": 9754,
+  "title": "PROJECTS ON JAVA 2",
+  "authors": [
+    "Xavier",
+    "C"
+  ],
+  "publisher": "Scitech",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b05"
+  },
+  "bookId": "00171",
+  "accNo": 7599,
+  "title": "Foundations of Jini 2 Programming",
+  "authors": [
+    "Newmarch",
+    "Jan"
+  ],
+  "publisher": "Apress",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b06"
+  },
+  "bookId": "00172",
+  "accNo": 16007,
+  "title": "Java Network Programming",
+  "authors": [
+    "Elliotte Rusty Harold"
+  ],
+  "publisher": "Shroff Publishers & Distributors Pvt.Ltd",
+  "publishedYear": 2012,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b07"
+  },
+  "bookId": "00173",
+  "accNo": 1347,
+  "title": "Core Java 2 volume II- advanced Features",
+  "authors": [
+    "Horstmann",
+    "Cay; Cornell",
+    "Gary"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 7,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b08"
+  },
+  "bookId": "00174",
+  "accNo": 7779,
+  "title": "Programming Laguages Principles and Paradigms",
+  "authors": [
+    "Tucker",
+    "Allen; Noonan",
+    "Robert E."
+  ],
+  "publisher": "Tata McGraw-hill publishing company limited",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b09"
+  },
+  "bookId": "00175",
+  "accNo": 3340,
+  "title": "Introduction to object oriented programming Through Java",
+  "authors": [
+    "ISRD"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b0a"
+  },
+  "bookId": "00176",
+  "accNo": 3029,
+  "title": "An Introdution Numerical Methods C++",
+  "authors": [
+    "Flowers",
+    "Brian H."
+  ],
+  "publisher": "Oxford university press",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b0b"
+  },
+  "bookId": "00177",
+  "accNo": 3110,
+  "title": "JAVA/J2EE Interview Questions",
+  "authors": [
+    "Koirala",
+    "Shivprasad"
+  ],
+  "publisher": "BPB Publications",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b0c"
+  },
+  "bookId": "00178",
+  "accNo": 8489,
+  "title": "Programming with Java A Primer",
+  "authors": [
+    "Balagurusamy.E"
+  ],
+  "publisher": "Tata McGraw Hill Education Private Limited",
+  "publishedYear": 2008,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 4
+  },
+  "callNumber": "5.13",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b0d"
+  },
+  "bookId": "00179",
+  "accNo": 5891,
+  "title": "The C Programming Langauage",
+  "authors": [
+    "Kernighan",
+    "Brian W.; Ritchile",
+    "Dennis M."
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b0e"
+  },
+  "bookId": "00180",
+  "accNo": 6388,
+  "title": "Professional C#",
+  "authors": [
+    "Robinson",
+    "Simon; Nagel",
+    "christain"
+  ],
+  "publisher": "Wiley India Pvt.Ltd",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b0f"
+  },
+  "bookId": "00181",
+  "accNo": 20804,
+  "title": "Effective Java",
+  "authors": [
+    "Joshua Bloch"
+  ],
+  "publisher": "Pearson",
+  "publishedYear": 2018,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "   005.13 (J)",
+  "edition": 2,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b10"
+  },
+  "bookId": "00182",
+  "accNo": 7644,
+  "title": "Pro Java ME MMAPI Mobile Media API for Java Micro Edition",
+  "authors": [
+    "Goyal",
+    "Vikram"
+  ],
+  "publisher": "Apress",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b11"
+  },
+  "bookId": "00183",
+  "accNo": 1370,
+  "title": "C++ Primer Plus",
+  "authors": [
+    "Prata",
+    "Stephen"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2003,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b12"
+  },
+  "bookId": "00184",
+  "accNo": 12317,
+  "title": "Mastering C++",
+  "authors": [
+    "Venugopal",
+    "K.R"
+  ],
+  "publisher": "Tata McGraw-Hill Education",
+  "publishedYear": 2011,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 37,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b13"
+  },
+  "bookId": "00185",
+  "accNo": 9067,
+  "title": "Programming microsoft visual C++",
+  "authors": [
+    "Kruglinski",
+    "DAvid J."
+  ],
+  "publisher": "WP Publishers & Distributors Private Limited",
+  "publishedYear": 2006,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 5,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b14"
+  },
+  "bookId": "00186",
+  "accNo": 21371,
+  "title": "Advanced Java Programming",
+  "authors": [
+    "Uttam K Roy"
+  ],
+  "publisher": "Oxford university press",
+  "publishedYear": 2017,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "005.13 (J)",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b15"
+  },
+  "bookId": "00187",
+  "accNo": 1243,
+  "title": "Java Programming Advanced Topics",
+  "authors": [
+    "Wigglesworth",
+    "Joe; McMillan",
+    "Paula"
+  ],
+  "publisher": "Thomson",
+  "publishedYear": 2004,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b16"
+  },
+  "bookId": "00188",
+  "accNo": 1094,
+  "title": "The Java Tutorial",
+  "authors": [
+    "Campione",
+    "Mary; Walrath",
+    "Kathy"
+  ],
+  "publisher": "Addtion wesly",
+  "publishedYear": 1996,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b17"
+  },
+  "bookId": "00189",
+  "accNo": 7962,
+  "title": "Begining J2ME",
+  "authors": [
+    "Li",
+    "Sing"
+  ],
+  "publisher": "Apress",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b18"
+  },
+  "bookId": "00190",
+  "accNo": 7959,
+  "title": "JAVA Persistence with Hybernate",
+  "authors": [
+    "Bauer Chistian"
+  ],
+  "publisher": "McGraw-Hill",
+  "publishedYear": 2008,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b19"
+  },
+  "bookId": "00191",
+  "accNo": 1090,
+  "title": "The Java Tutorial",
+  "authors": [
+    "Campione",
+    "Mary; Walrath",
+    "Kathy"
+  ],
+  "publisher": "Addtion wesly",
+  "publishedYear": 1996,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b1a"
+  },
+  "bookId": "00192",
+  "accNo": 706,
+  "title": "Enterprise javabeans",
+  "authors": [
+    "Valesky",
+    "Tom"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 1999,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b1b"
+  },
+  "bookId": "00193",
+  "accNo": 15337,
+  "title": "Java Network Programming",
+  "authors": [
+    "Elliotte Rusty Harold"
+  ],
+  "publisher": "Shroff Publishers & Distributors Pvt.Ltd",
+  "publishedYear": 2012,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b1c"
+  },
+  "bookId": "00194",
+  "accNo": 15336,
+  "title": "Java Network Programming",
+  "authors": [
+    "Elliotte Rusty Harold"
+  ],
+  "publisher": "Shroff Publishers & Distributors Pvt.Ltd",
+  "publishedYear": 2012,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b1d"
+  },
+  "bookId": "00195",
+  "accNo": 8047,
+  "title": "JAVA Persistence with Hybernate",
+  "authors": [
+    "Christian Bauer"
+  ],
+  "publisher": "Dreamtech Press",
+  "publishedYear": 2008,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b1e"
+  },
+  "bookId": "00196",
+  "accNo": 1414,
+  "title": "Java Server Pages IIluminated",
+  "authors": [
+    "Prabhakar Metlapalli"
+  ],
+  "publisher": "Viva Books",
+  "publishedYear": 2000,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b1f"
+  },
+  "bookId": "00197",
+  "accNo": 7971,
+  "title": "Pro Java Tools",
+  "authors": [
+    "Hightower",
+    "Richard"
+  ],
+  "publisher": "wrox",
+  "publishedYear": 2005,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b20"
+  },
+  "bookId": "00198",
+  "accNo": 15338,
+  "title": "Java Network Programming",
+  "authors": [
+    "Elliotte Rusty Harold"
+  ],
+  "publisher": "Shroff Publishers & Distributors Pvt.Ltd",
+  "publishedYear": 2012,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 3,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b21"
+  },
+  "bookId": "00199",
+  "accNo": 13626,
+  "title": "Fundamentals of Communications Systems",
+  "authors": [
+    "Proakis",
+    "John G"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2012,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 7,
+    "shelf": 30
+  },
+  "callNumber": "621.382",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b22"
+  },
+  "bookId": "00200",
+  "accNo": 1365,
+  "title": "Expriments in Java",
+  "authors": [
+    "Rebelsky",
+    "Samuel A."
+  ],
+  "publisher": "Addtion wesly",
+  "publishedYear": 2000,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749b23"
+  },
+  "bookId": "00201",
+  "accNo": 1369,
+  "title": "C++ Primer Plus",
+  "authors": [
+    "Prata",
+    "Stephen"
+  ],
+  "publisher": "Pearson Education",
+  "publishedYear": 2003,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 2,
+    "shelf": 5
+  },
+  "callNumber": "5.13",
+  "edition": 1,
+  "copies": 1
+}]

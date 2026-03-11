@@ -1,0 +1,2434 @@
+{
+  "Rack 1 - Shelf 4": [
+    {
+      "bookId": "00063",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Peterson",
+        "Larry L; Davie",
+        "Bruce s."
+      ],
+      "department": "GENERAL",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00064",
+      "title": "Computer Communications And Networking Technolgies",
+      "authors": [
+        "Gallo",
+        "Michal A.; Hancock",
+        "William M."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00065",
+      "title": "Computer Communications And Networking Technolgies",
+      "authors": [
+        "Gallo",
+        "Michal A.; Hancock",
+        "William M."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00066",
+      "title": "Guide to Networking Essentials",
+      "authors": [
+        "Tomsho",
+        "Greg; Tittel",
+        "Ed; Johnson",
+        "David"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00067",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Larry L.Peterson"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00068",
+      "title": "The Essential Guide to User Interface Design",
+      "authors": [
+        "Galitz",
+        "wilbert O."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00070",
+      "title": "Nortel Guide to VPN Routing for security and Volp",
+      "authors": [
+        "Edwards",
+        "James; Bramante",
+        "Richard"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00071",
+      "title": "Nortel Guide to VPN Routing for security and Volp",
+      "authors": [
+        "Edwards",
+        "James; Bramante",
+        "Richard"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00072",
+      "title": "Nortel Guide to VPN Routing for security and Volp",
+      "authors": [
+        "Edwards",
+        "James; Bramante",
+        "Richard"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00073",
+      "title": "Nortel Guide to VPN Routing for security and Volp",
+      "authors": [
+        "Edwards",
+        "James; Bramante",
+        "Richard"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00074",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00075",
+      "title": "Computer Networking A Top- down approach featuring the internet",
+      "authors": [
+        "Kurose",
+        "James F."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00076",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00078",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00079",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Larry L.Peterson; Bruce S.Davie"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00080",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Larry L.Peterson; Bruce S.Davie"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    },
+    {
+      "bookId": "00081",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Larry L.Peterson; Bruce S.Davie"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 4
+    }
+  ],
+  "Rack 1 - Shelf 5": [
+    {
+      "bookId": "00082",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00083",
+      "title": "Computer Communications And Networking Technolgies",
+      "authors": [
+        "Gallo",
+        "Michal A.; Hancock",
+        "William M."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00084",
+      "title": "Computer Networking illuminated",
+      "authors": [
+        "Barrett",
+        "Diane; King",
+        "Todd"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00085",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00086",
+      "title": "Computer Networking:a top-down approach featuring the internet",
+      "authors": [
+        "Kurose",
+        "James F.; Ross",
+        "Keith W."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00087",
+      "title": "Computer Networks",
+      "authors": [
+        "Sarma C.R"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00089",
+      "title": "Begining Spring Framework",
+      "authors": [
+        "Velde",
+        "Thomas Van de; Snyder",
+        "Brunce"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00090",
+      "title": "Computer Networks and Systems Queueing Theory and Performance Evalution",
+      "authors": [
+        "Thomas G.Robertazzi"
+      ],
+      "department": "MATHS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00091",
+      "title": "Computer Networks",
+      "authors": [
+        "Olifer",
+        "Natalia; Olifer",
+        "Victor"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00092",
+      "title": "The Essential Guide to User Interface Design",
+      "authors": [
+        "Cooper",
+        "Alan"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00093",
+      "title": "The Essential Guide to User Interface Design",
+      "authors": [
+        "Cooper",
+        "Alan"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00094",
+      "title": "Computer Networks",
+      "authors": [
+        "Black",
+        "Uyless"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00096",
+      "title": "Computer Networks",
+      "authors": [
+        "Black",
+        "Uyless"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00097",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Bruce S.Davie"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00098",
+      "title": "High Performance Communication Networks",
+      "authors": [
+        "Jean Walrand"
+      ],
+      "department": "GENERAL",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00099",
+      "title": "NET 2.0 Networking Projects.",
+      "authors": [
+        "Meng Lee",
+        "Wei"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00100",
+      "title": "High Performance Communication Networks",
+      "authors": [
+        "Walrand Jean"
+      ],
+      "department": "GENERAL",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00101",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00102",
+      "title": "Computer Networks",
+      "authors": [
+        "Peterson",
+        "Larry L"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    },
+    {
+      "bookId": "00104",
+      "title": "Guide to Networking Essentials",
+      "authors": [
+        "Tomsho",
+        "Greg; Tittel",
+        "Ed; Johnson",
+        "David"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 5
+    }
+  ],
+  "Rack 1 - Shelf 59": [
+    {
+      "bookId": "00026",
+      "title": "Operation Research",
+      "authors": [
+        "Chemma Col D.S"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00027",
+      "title": "Operations Research Applications and Algorithms",
+      "authors": [
+        "Winston Waynel L"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00029",
+      "title": "Information Technology For Management",
+      "authors": [
+        "Turban",
+        "Efraim; Mclean",
+        "Ephraim"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00030",
+      "title": "Information systems reengineering",
+      "authors": [
+        "Fong",
+        "Joseph SP; Huang",
+        "Shi-Ming"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Issued",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00031",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Ranjan Bose"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00032",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Ranjan Bose"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00033",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Ranjan Bose"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00034",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Ranjan Bose"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00036",
+      "title": "Fundamentals of Information Technology",
+      "authors": [
+        "Leon",
+        "Alexis"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00037",
+      "title": "ELEMENTS OF INFORMATION THEORY",
+      "authors": [
+        "COVER THOMAS M"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00038",
+      "title": "ELEMENTS OF INFORMATION THEORY",
+      "authors": [
+        "COVER THOMAS M"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00039",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Bose Ranjan"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00040",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Bose Ranjan"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00041",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Bose Ranjan"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00042",
+      "title": "Information Technology For Management",
+      "authors": [
+        "Turban",
+        "Efraim; Mclean",
+        "Ephraim"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00043",
+      "title": "Information Technology For Management",
+      "authors": [
+        "Turban",
+        "Efraim; Mclean",
+        "Ephraim"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00044",
+      "title": "Information systems reengineering",
+      "authors": [
+        "Fong",
+        "Joseph SP; Huang",
+        "Shi-Ming"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00045",
+      "title": "Information systems reengineering",
+      "authors": [
+        "Fong",
+        "Joseph SP; Huang",
+        "Shi-Ming"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00046",
+      "title": "Strutured system analysis & Design",
+      "authors": [
+        "ISRD"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00047",
+      "title": "Strutured system analysis & Design",
+      "authors": [
+        "ISRD"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00048",
+      "title": "Strutured system analysis & Design",
+      "authors": [
+        "ISRD"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00049",
+      "title": "Strutured system analysis & Design",
+      "authors": [
+        "ISRD"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00050",
+      "title": "Information Assurance for the Enterprise",
+      "authors": [
+        "Schou",
+        "Corey; shoemaker",
+        "Dan"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00051",
+      "title": "Information Assurance for the Enterprise",
+      "authors": [
+        "Schou",
+        "Corey; shoemaker",
+        "Dan"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Issued",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00052",
+      "title": "Information Assurance for the Enterprise",
+      "authors": [
+        "Schou",
+        "Corey; shoemaker",
+        "Dan"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00053",
+      "title": "Information Assurance for the Enterprise",
+      "authors": [
+        "Schou",
+        "Corey; shoemaker",
+        "Dan"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00054",
+      "title": "Information systems reengineering",
+      "authors": [
+        "Fong",
+        "Joseph SP; Huang",
+        "Shi-Ming"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00055",
+      "title": "Fundamentals of Information Technology",
+      "authors": [
+        "Deepak Bharihoke"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00056",
+      "title": "Fundamentals of Information Technology",
+      "authors": [
+        "Deepak Bharihoke"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00057",
+      "title": "Fundamentals of Information Technology",
+      "authors": [
+        "Deepak Bharihoke"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00059",
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D.Manning",
+        "Prabhakar Raghavan"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00061",
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D.Manning",
+        "Prabhakar Raghavan"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    },
+    {
+      "bookId": "00062",
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D.Manning",
+        "Prabhakar Raghavan"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 59
+    }
+  ],
+  "Rack 1 - Shelf 60": [
+    {
+      "bookId": "00001",
+      "title": "Information Technology  an Info Guide",
+      "authors": [
+        "Akshay Kumar"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00002",
+      "title": "Channel Coding in Communication Networks from Theory to turbocodes",
+      "authors": [
+        "Glavieux",
+        "Alain"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00003",
+      "title": "Information  Technology Act 2000",
+      "authors": [
+        "Srivastava",
+        "Rajeshwar Ashok ; Chansoria",
+        "Divya"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00005",
+      "title": "Media Coding and Content Processing",
+      "authors": [
+        "Steinmetz",
+        "Ralf; Nahrstedt",
+        "Klara"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00006",
+      "title": "Information System Solutions",
+      "authors": [
+        "Van Horn Richard L"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00008",
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D.Manning",
+        "Prabhakar Raghavan"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00009",
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D.Manning",
+        "Prabhakar Raghavan"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00010",
+      "title": "Fundamentals of Information Technology",
+      "authors": [
+        "Deepak Bharihoke"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00011",
+      "title": "Information technology Project Management",
+      "authors": [
+        "Schwalbe",
+        "kathy"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00012",
+      "title": "Information Theory, Coding and Cryptography",
+      "authors": [
+        "Ranjan Bose"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00013",
+      "title": "Businesss research Methods",
+      "authors": [
+        "Murthy S.N; Bhojanna U"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00014",
+      "title": "Computer Simulation of Spark-ignition Engine Processes",
+      "authors": [
+        "Ganesan V."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00015",
+      "title": "Fundamentals of  Information Technology",
+      "authors": [
+        "aggarwal",
+        "Amit"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00016",
+      "title": "An Introduction To Operational Research",
+      "authors": [
+        "Kothari C.R"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00017",
+      "title": "Operations Research",
+      "authors": [
+        "R.Panneerselvam"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Issued",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00018",
+      "title": "Operation Research Concepts and Cases",
+      "authors": [
+        "Hillier",
+        "Frederick S."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00019",
+      "title": "Operations Research",
+      "authors": [
+        "Kalavathy S."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00022",
+      "title": "Operation Research Concepts and Cases",
+      "authors": [
+        "shah nita.h"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00023",
+      "title": "The Essential R Reference",
+      "authors": [
+        "Mark Gardener"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00024",
+      "title": "Operations Research",
+      "authors": [
+        "Jogendra Mehta"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00025",
+      "title": "Operations Research",
+      "authors": [
+        "Kanti Swarup",
+        "P.K.Gupta"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Issued",
+      "rack": 1,
+      "shelf": 60
+    },
+    {
+      "bookId": "00058",
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D.Manning",
+        "Prabhakar Raghavan"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 60
+    }
+  ],
+  "Rack 1 - Shelf 7": [
+    {
+      "bookId": "00028",
+      "title": "Information Technology For Management",
+      "authors": [
+        "Turban",
+        "Efraim; Mclean",
+        "Ephraim"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 1,
+      "shelf": 7
+    }
+  ],
+  "Rack 2 - Shelf 1": [
+    {
+      "bookId": "00077",
+      "title": "C Test your aptitude",
+      "authors": [
+        "Venugopal",
+        "K.R; Chandrakant",
+        "N"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 1
+    }
+  ],
+  "Rack 2 - Shelf 27": [
+    {
+      "bookId": "00060",
+      "title": "Software engineering",
+      "authors": [
+        "Ian Sommerville"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 27
+    }
+  ],
+  "Rack 2 - Shelf 34": [
+    {
+      "bookId": "00105",
+      "title": "Computer Networks",
+      "authors": [
+        "Olifer",
+        "Natalia; Olifer",
+        "Victor"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00106",
+      "title": "Networks for Computer Scientists and Engineers",
+      "authors": [
+        "Zheng",
+        "Youlu"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00107",
+      "title": "ADO.NET",
+      "authors": [
+        "Sceppa David"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00108",
+      "title": "Nortel Guide to VPN Routing for security and Volp",
+      "authors": [
+        "Edwards",
+        "James; Bramante",
+        "Richard"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00109",
+      "title": "The Essentials of Interaction DEsign",
+      "authors": [
+        "Cooper",
+        "Alan; Reimann",
+        "Robert"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00110",
+      "title": "Computer Networks",
+      "authors": [
+        "Peterson",
+        "Larry L"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00111",
+      "title": "Creating Client Extranets with SharePoint 2003",
+      "authors": [
+        "Gerow",
+        "MArk E."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00112",
+      "title": ".NET 2.0 Networking Projects",
+      "authors": [
+        "Meng Lee",
+        "Wei"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00113",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00114",
+      "title": "Computer Networks and Systems Queueing Theory and Performance Evalution",
+      "authors": [
+        "Thomas G.Robertazzi"
+      ],
+      "department": "MATHS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00115",
+      "title": "Computer Networks",
+      "authors": [
+        "Petreson",
+        "Larry; Davie",
+        "Bruce s."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00116",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Larry L.Peterson",
+        "Bruce S.Davie"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00117",
+      "title": "Networks Lines and Fields",
+      "authors": [
+        "Ryder",
+        "John D"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00118",
+      "title": "Guide to Networking Essentials",
+      "authors": [
+        "Tomsho",
+        "Greg; Tittel",
+        "Ed; Johnson",
+        "David"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00119",
+      "title": ".NEt Programming",
+      "authors": [
+        "Gupta",
+        "Vikas"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00120",
+      "title": "NEt Programming",
+      "authors": [
+        "Gupta",
+        "Vikas"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00121",
+      "title": ".NET 2.0 Networking Projectss",
+      "authors": [
+        "Meng Lee",
+        "Wei"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00122",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Peterson",
+        "Larry L"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00123",
+      "title": "Computer Networks",
+      "authors": [
+        "Jayaprakash N"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00124",
+      "title": "Computer Networks and Systems Queueing Theory and Performance Evalution",
+      "authors": [
+        "Thomas G.Robertazzi"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00125",
+      "title": "Computer Networks and Systems Queueing Theory and Performance",
+      "authors": [
+        "Thomas G.Robertazzi"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00126",
+      "title": "Computer Networks",
+      "authors": [
+        "Sarma C.R"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00127",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00129",
+      "title": "Computer Networking",
+      "authors": [
+        "Tittel",
+        "Ed"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00130",
+      "title": "Computer Networking:a top-down approach featuring the internet",
+      "authors": [
+        "Kurose",
+        "James F.; Ross",
+        "Keith W."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    },
+    {
+      "bookId": "00131",
+      "title": "Computer Networking A Top- down approach featuring the internet",
+      "authors": [
+        "James F.Kurose",
+        "Keith W.Ross"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 34
+    }
+  ],
+  "Rack 2 - Shelf 35": [
+    {
+      "bookId": "00132",
+      "title": "Computer Networking",
+      "authors": [
+        "Tittel",
+        "Ed"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00133",
+      "title": "Computer Networks and Internets With Internet Applications",
+      "authors": [
+        "Douglas E.Comer"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00134",
+      "title": ".Net Interview Questions",
+      "authors": [
+        "Nagaraju.B"
+      ],
+      "department": "GENERAL",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00135",
+      "title": "Computer Networks",
+      "authors": [
+        "Peterson",
+        "Larry L"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00136",
+      "title": "Computer Networks and systems",
+      "authors": [
+        "Robertazzi",
+        "Thomas G."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00137",
+      "title": "Networks Lines and Fields",
+      "authors": [
+        "Ryder",
+        "John D"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00138",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Bruce S.Davie"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00139",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00141",
+      "title": ".Net Interview Questions",
+      "authors": [
+        "Nagaraju.B"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00142",
+      "title": "Top-Down Network Design",
+      "authors": [
+        "Priscilla Oppenheimer"
+      ],
+      "department": "GENERAL",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00143",
+      "title": "Computer Networks",
+      "authors": [
+        "Jayaprakash N"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00144",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Larry L.Peterson"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00145",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00147",
+      "title": "Computer Networks",
+      "authors": [
+        "Tanenbaum",
+        "Andrew S."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00148",
+      "title": "computer networks a systems approach",
+      "authors": [
+        "Peterson",
+        "Larry L"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    },
+    {
+      "bookId": "00149",
+      "title": "Computer Communications And Networking Technolgies",
+      "authors": [
+        "Gallo",
+        "Michal A.; Hancock",
+        "William M."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 35
+    }
+  ],
+  "Rack 2 - Shelf 4": [
+    {
+      "bookId": "00150",
+      "title": "C++ Primer",
+      "authors": [
+        "Lippman Stanley B"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Issued",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00151",
+      "title": "C++ Programming",
+      "authors": [
+        "Ullman",
+        "Larry; Signer",
+        "Andreas"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00152",
+      "title": "The Complete Reference java",
+      "authors": [
+        "Schildt herbert"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00153",
+      "title": "computer Programming",
+      "authors": [
+        "Kamthane Ashok N."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00154",
+      "title": "Java Actually A first Course",
+      "authors": [
+        "Mughal",
+        "Khalid; Hamre Torill; Rasmussen",
+        "Rolf.W"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00155",
+      "title": "Programming With ANSI C++",
+      "authors": [
+        "Trivedi",
+        "Bhushan"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00156",
+      "title": "Programming Languages Priciples and Paradigms",
+      "authors": [
+        "Tucker",
+        "Allen"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00157",
+      "title": "Indroduction to programming: Concepts and Design",
+      "authors": [
+        "Venit",
+        "Stewart"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00158",
+      "title": "Think Python",
+      "authors": [
+        "Allen B.Downey"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00159",
+      "title": "Practical approach to programming in c",
+      "authors": [
+        "Pandiyaraja",
+        "P"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00160",
+      "title": "Introduction to object oriented programming Through Java",
+      "authors": [
+        "ISRD"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00161",
+      "title": "JavaServer Pages Illumnated",
+      "authors": [
+        "Prabhakar Metlapalli"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00162",
+      "title": "Fundamentals of Computers with Programming in C",
+      "authors": [
+        "Dey",
+        "Pradip; Ghosh",
+        "Manas"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00164",
+      "title": "Enterprise javabeans",
+      "authors": [
+        "Valesky",
+        "Tom"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00165",
+      "title": "IBM Pc Assembly Language and Programming",
+      "authors": [
+        "Abel Peter"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00166",
+      "title": "555 Programs in C++",
+      "authors": [
+        "Ahamad",
+        "Azad A."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00167",
+      "title": "Pro J2EE 1.4 From Professional to Expert",
+      "authors": [
+        "Spielman",
+        "Sue"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00168",
+      "title": "Exploiting Software HOw to break code",
+      "authors": [
+        "Hoglund",
+        "Greg; McGraw",
+        "Gary"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00169",
+      "title": "Pro Visual Studio 2005 Team system",
+      "authors": [
+        "Levinson",
+        "Jeff; Nelson",
+        "Daviod"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00170",
+      "title": "PROJECTS ON JAVA 2",
+      "authors": [
+        "Xavier",
+        "C"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00171",
+      "title": "Foundations of Jini 2 Programming",
+      "authors": [
+        "Newmarch",
+        "Jan"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00172",
+      "title": "Java Network Programming",
+      "authors": [
+        "Elliotte Rusty Harold"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00173",
+      "title": "Core Java 2 volume II- advanced Features",
+      "authors": [
+        "Horstmann",
+        "Cay; Cornell",
+        "Gary"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00174",
+      "title": "Programming Laguages Principles and Paradigms",
+      "authors": [
+        "Tucker",
+        "Allen; Noonan",
+        "Robert E."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00175",
+      "title": "Introduction to object oriented programming Through Java",
+      "authors": [
+        "ISRD"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00176",
+      "title": "An Introdution Numerical Methods C++",
+      "authors": [
+        "Flowers",
+        "Brian H."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00177",
+      "title": "JAVA/J2EE Interview Questions",
+      "authors": [
+        "Koirala",
+        "Shivprasad"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    },
+    {
+      "bookId": "00178",
+      "title": "Programming with Java A Primer",
+      "authors": [
+        "Balagurusamy.E"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 4
+    }
+  ],
+  "Rack 2 - Shelf 5": [
+    {
+      "bookId": "00179",
+      "title": "The C Programming Langauage",
+      "authors": [
+        "Kernighan",
+        "Brian W.; Ritchile",
+        "Dennis M."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00180",
+      "title": "Professional C#",
+      "authors": [
+        "Robinson",
+        "Simon; Nagel",
+        "christain"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00181",
+      "title": "Effective Java",
+      "authors": [
+        "Joshua Bloch"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00182",
+      "title": "Pro Java ME MMAPI Mobile Media API for Java Micro Edition",
+      "authors": [
+        "Goyal",
+        "Vikram"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00183",
+      "title": "C++ Primer Plus",
+      "authors": [
+        "Prata",
+        "Stephen"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00184",
+      "title": "Mastering C++",
+      "authors": [
+        "Venugopal",
+        "K.R"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00185",
+      "title": "Programming microsoft visual C++",
+      "authors": [
+        "Kruglinski",
+        "DAvid J."
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00186",
+      "title": "Advanced Java Programming",
+      "authors": [
+        "Uttam K Roy"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00187",
+      "title": "Java Programming Advanced Topics",
+      "authors": [
+        "Wigglesworth",
+        "Joe; McMillan",
+        "Paula"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00188",
+      "title": "The Java Tutorial",
+      "authors": [
+        "Campione",
+        "Mary; Walrath",
+        "Kathy"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00189",
+      "title": "Begining J2ME",
+      "authors": [
+        "Li",
+        "Sing"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00190",
+      "title": "JAVA Persistence with Hybernate",
+      "authors": [
+        "Bauer Chistian"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00191",
+      "title": "The Java Tutorial",
+      "authors": [
+        "Campione",
+        "Mary; Walrath",
+        "Kathy"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00192",
+      "title": "Enterprise javabeans",
+      "authors": [
+        "Valesky",
+        "Tom"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00193",
+      "title": "Java Network Programming",
+      "authors": [
+        "Elliotte Rusty Harold"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00194",
+      "title": "Java Network Programming",
+      "authors": [
+        "Elliotte Rusty Harold"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00195",
+      "title": "JAVA Persistence with Hybernate",
+      "authors": [
+        "Christian Bauer"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00196",
+      "title": "Java Server Pages IIluminated",
+      "authors": [
+        "Prabhakar Metlapalli"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00197",
+      "title": "Pro Java Tools",
+      "authors": [
+        "Hightower",
+        "Richard"
+      ],
+      "department": "COMPUTER SCIENCE",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00198",
+      "title": "Java Network Programming",
+      "authors": [
+        "Elliotte Rusty Harold"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00200",
+      "title": "Expriments in Java",
+      "authors": [
+        "Rebelsky",
+        "Samuel A."
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    },
+    {
+      "bookId": "00201",
+      "title": "C++ Primer Plus",
+      "authors": [
+        "Prata",
+        "Stephen"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 2,
+      "shelf": 5
+    }
+  ],
+  "Rack 3 - Shelf 1": [
+    {
+      "bookId": "00035",
+      "title": "Fundamentals of data structures in C++",
+      "authors": [
+        "Horowitz",
+        "Ellis"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 3,
+      "shelf": 1
+    }
+  ],
+  "Rack 4 - Shelf 44": [
+    {
+      "bookId": "00021",
+      "title": "Oracle Applications Server Portal Handbook",
+      "authors": [
+        "Ostrowski Chris"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 4,
+      "shelf": 44
+    }
+  ],
+  "Rack 5 - Shelf 10": [
+    {
+      "bookId": "00007",
+      "title": "Engineering Physics",
+      "authors": [
+        "Arumugam M"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 5,
+      "shelf": 10
+    }
+  ],
+  "Rack 5 - Shelf 20": [
+    {
+      "bookId": "00095",
+      "title": "Fundamentals In Nuclear Physics",
+      "authors": [
+        "Basdevant Jeanlouis"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 5,
+      "shelf": 20
+    }
+  ],
+  "Rack 5 - Shelf 47": [
+    {
+      "bookId": "00069",
+      "title": "The Essential Guide to User Interface Design",
+      "authors": [
+        "Galitz",
+        "wilbert O."
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 5,
+      "shelf": 47
+    }
+  ],
+  "Rack 6 - Shelf 18": [
+    {
+      "bookId": "00140",
+      "title": "Irrigation and Water Resources Engineering",
+      "authors": [
+        "Asawa.G.L"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 6,
+      "shelf": 18
+    }
+  ],
+  "Rack 6 - Shelf 2": [
+    {
+      "bookId": "00128",
+      "title": ".Net Interview Questions",
+      "authors": [
+        "Nagaraju.B"
+      ],
+      "department": "GENERAL",
+      "status": "Available",
+      "rack": 6,
+      "shelf": 2
+    }
+  ],
+  "Rack 7 - Shelf 30": [
+    {
+      "bookId": "00199",
+      "title": "Fundamentals of Communications Systems",
+      "authors": [
+        "Proakis",
+        "John G"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 7,
+      "shelf": 30
+    }
+  ],
+  "Rack 7 - Shelf 33": [
+    {
+      "bookId": "00088",
+      "title": "Semiconductor Devices",
+      "authors": [
+        "Dimitrijev",
+        "Sima"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 7,
+      "shelf": 33
+    }
+  ],
+  "Rack 7 - Shelf 70": [
+    {
+      "bookId": "00146",
+      "title": "Basic VLSI design",
+      "authors": [
+        "Douglas A.Pucknell"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 7,
+      "shelf": 70
+    }
+  ],
+  "Rack 8 - Shelf 69": [
+    {
+      "bookId": "00103",
+      "title": "Fluid Mechanics & Machinery",
+      "authors": [
+        "Purshothama Raj; Er.Ramasamy"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": 8,
+      "shelf": 69
+    }
+  ],
+  "Rack 9 - Shelf 20": [
+    {
+      "bookId": "00004",
+      "title": "Computer Control of Process",
+      "authors": [
+        "Nagaraj.B"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": 9,
+      "shelf": 20
+    }
+  ],
+  "Unknown Location": [
+    {
+      "bookId": "00020",
+      "title": "Research Methods for Business A Skill Building Approach",
+      "authors": [
+        "Uma Sekaran",
+        "Roger Bougie"
+      ],
+      "department": "ELECTRONICS",
+      "status": "Available",
+      "rack": null,
+      "shelf": null
+    },
+    {
+      "bookId": "00163",
+      "title": "Excel In Grammer",
+      "authors": [
+        "Castro",
+        "Doreen; Shakeela I"
+      ],
+      "department": "INFORMATION TECHNOLOGY",
+      "status": "Available",
+      "rack": null,
+      "shelf": null
+    }
+  ]
+}
