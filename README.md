@@ -336,8 +336,3 @@ This project is licensed under the ISC License.
    - Verify cookie settings
    - Check token expiration
 
-## 📞 Support
-
-For support and questions, please create an issue in the repository.
-"# temp-library" 
-#
