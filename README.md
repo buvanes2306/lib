@@ -308,13 +308,6 @@ The application is fully responsive and works on:
 3. Configure environment variables
 4. Set up proper routing
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## 📄 License
 
@@ -343,9 +336,3 @@ This project is licensed under the ISC License.
    - Verify cookie settings
    - Check token expiration
 
-## 📞 Support
-
-For support and questions, please create an issue in the repository.
-"# temp-library" 
-#   l i b r a r y  
- "# library" 
