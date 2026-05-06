@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5b"
+  },
+  "bookId": "00001",
+  "accNo": 4281,
+  "title": "Information Technology  an Info Guide",
+  "authors": [
+    "Akshay Kumar"
+  ],
+  "publisher": "Authorpress",
+  "publishedYear": 2000,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1,
+  "updatedAt": {
+    "$date": "2026-04-09T17:35:31.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5c"
+  },
+  "bookId": "00002",
+  "accNo": 7526,
+  "title": "Channel Coding in Communication Networks from Theory to turbocodes",
+  "authors": [
+    "Glavieux",
+    "Alain"
+  ],
+  "publisher": "Viva Book",
+  "publishedYear": 2007,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1,
+  "updatedAt": {
+    "$date": "2026-03-14T09:03:39.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5d"
+  },
+  "bookId": "00003",
+  "accNo": 4286,
+  "title": "Information  Technology Act 2000",
+  "authors": [
+    "Srivastava",
+    "Rajeshwar Ashok ; Chansoria",
+    "Divya"
+  ],
+  "publisher": "Vista International Publishing House",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5e"
+  },
+  "bookId": "00004",
+  "accNo": 8325,
+  "title": "Computer Control of Process",
+  "authors": [
+    "Nagaraj.B"
+  ],
+  "publisher": "Anuradha Publications",
+  "publishedYear": 2008,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 9,
+    "shelf": 20
+  },
+  "callNumber": "629.89",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a5f"
+  },
+  "bookId": "00005",
+  "accNo": 7523,
+  "title": "Media Coding and Content Processing",
+  "authors": [
+    "Steinmetz",
+    "Ralf; Nahrstedt",
+    "Klara"
+  ],
+  "publisher": "Prentice - Hall of India",
+  "publishedYear": 2002,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a60"
+  },
+  "bookId": "00006",
+  "accNo": 8276,
+  "title": "Information System Solutions",
+  "authors": [
+    "Van Horn Richard L"
+  ],
+  "publisher": "Tata McGraw-Hill",
+  "publishedYear": 2006,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a61"
+  },
+  "bookId": "00007",
+  "accNo": 4940,
+  "title": "Engineering Physics",
+  "authors": [
+    "Arumugam M"
+  ],
+  "publisher": "Anuradha Publications",
+  "publishedYear": 2007,
+  "department": "INFORMATION TECHNOLOGY",
+  "status": "Available",
+  "location": {
+    "rack": 5,
+    "shelf": 10
+  },
+  "callNumber": "530",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a62"
+  },
+  "bookId": "00008",
+  "accNo": 20058,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge University Press",
+  "publishedYear": 2016,
+  "department": "ELECTRONICS",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a63"
+  },
+  "bookId": "00009",
+  "accNo": 21397,
+  "title": "Introduction to Information Retrieval",
+  "authors": [
+    "Christopher D.Manning",
+    "Prabhakar Raghavan"
+  ],
+  "publisher": "Cambridge publishers",
+  "publishedYear": 2014,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+},
+{
+  "_id": {
+    "$oid": "699c7311f0777c525d749a64"
+  },
+  "bookId": "00010",
+  "accNo": 459,
+  "title": "Fundamentals of Information Technology",
+  "authors": [
+    "Deepak Bharihoke"
+  ],
+  "publisher": "EXCEL books",
+  "publishedYear": 2001,
+  "department": "COMPUTER SCIENCE",
+  "status": "Available",
+  "location": {
+    "rack": 1,
+    "shelf": 60
+  },
+  "callNumber": "3.54",
+  "edition": 1,
+  "copies": 1
+}
+]

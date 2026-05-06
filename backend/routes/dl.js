@@ -20,11 +20,13 @@ router.post('/scan-frame', async (req, res) => {
 
     const pythonProc = spawn(pythonExecutable, [pythonScript], {
       cwd: rootDir,
-      windowsHide: true
+      windowsHide: true,
+      stdio: ['pipe', 'pipe', 'pipe']
     })
 
     let stdout = ''
     let stderr = ''
+    let responseSent = false
 
     pythonProc.stdout.on('data', (chunk) => {
       stdout += chunk.toString()
@@ -40,30 +42,76 @@ router.post('/scan-frame', async (req, res) => {
       } catch (_) {}
     }, 15000)
 
-    pythonProc.on('close', (code) => {
+    pythonProc.on('error', (error) => {
       clearTimeout(killTimer)
-      if (code !== 0) {
+      if (!responseSent) {
+        responseSent = true
+        console.error('Python process error:', error)
         return res.status(500).json({
           success: false,
-          message: 'Python preprocessing failed',
-          error: stderr || `python exit code ${code}`
-        })
-      }
-
-      try {
-        const parsed = JSON.parse(stdout || '{}')
-        return res.status(200).json(parsed)
-      } catch (parseError) {
-        return res.status(500).json({
-          success: false,
-          message: 'Invalid Python response',
-          error: parseError.message
+          message: 'Failed to start Python process',
+          error: error.message
         })
       }
     })
 
-    pythonProc.stdin.write(JSON.stringify({ imageBase64 }))
-    pythonProc.stdin.end()
+    pythonProc.stdin.on('error', (error) => {
+      clearTimeout(killTimer)
+      if (!responseSent) {
+        responseSent = true
+        console.error('Python stdin error:', error)
+        pythonProc.kill()
+        return res.status(500).json({
+          success: false,
+          message: 'Python process stdin error',
+          error: error.message
+        })
+      }
+    })
+
+    pythonProc.on('close', (code) => {
+      clearTimeout(killTimer)
+      if (!responseSent) {
+        responseSent = true
+        if (code !== 0) {
+          console.error(`Python process exited with code ${code}. stderr:`, stderr)
+          return res.status(500).json({
+            success: false,
+            message: 'Python preprocessing failed',
+            error: stderr || `python exit code ${code}`
+          })
+        }
+
+        try {
+          const parsed = JSON.parse(stdout || '{}')
+          return res.status(200).json(parsed)
+        } catch (parseError) {
+          console.error('Python response parse error:', parseError, 'stdout:', stdout)
+          return res.status(500).json({
+            success: false,
+            message: 'Invalid Python response',
+            error: parseError.message
+          })
+        }
+      }
+    })
+
+    try {
+      pythonProc.stdin.write(JSON.stringify({ imageBase64 }))
+      pythonProc.stdin.end()
+    } catch (writeError) {
+      clearTimeout(killTimer)
+      if (!responseSent) {
+        responseSent = true
+        console.error('Python stdin write error:', writeError)
+        pythonProc.kill()
+        return res.status(500).json({
+          success: false,
+          message: 'Python process write error',
+          error: writeError.message
+        })
+      }
+    }
   } catch (error) {
     console.error('DL scan frame error:', error)
     return res.status(500).json({ success: false, message: 'Internal server error' })
